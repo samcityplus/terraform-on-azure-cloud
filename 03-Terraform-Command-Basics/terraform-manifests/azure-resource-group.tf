@@ -15,7 +15,7 @@ provider "azurerm" {
 
   subscription_id = "8e04c193-63ed-4302-9852-cc66f8903137"
 }
-}
+
 
 # Create Resource Group 
 resource "azurerm_resource_group" "my_demo_rg1" {
